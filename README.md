@@ -56,3 +56,7 @@ Then, this file is accessed by a script running Adaptive-RAG on Gemini 1.5 Pro a
 Use of Pathway library is extensive and most of the functions used are inbuilt functions of pathway library  
 You may visit them by https://github.com/pathwaycom/pathway  
 
+I have created all the pipelines seperately to simplify in further additions
+# Future Prospects
+We are planning to integrate this assistant with google drive so that it extracts files in real-time from the drive
+### Keep checking out this repo in future for new features
