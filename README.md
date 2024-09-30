@@ -40,7 +40,16 @@ Just:
 ``` linux/WSL
 docker start -i personal-pla
 ```
-## Voila! Enjoy the way of new, efficient Learning
+### Voila! Enjoy the way of new, efficient Learning
 ![image](https://github.com/user-attachments/assets/0d7fdb0d-48b7-4d49-89e1-24d7bdcacbb7)
 
-# Good Luck for Your exams
+### Good Luck for Your exams
+
+
+# For working details only (Not Required for use)
+Working of this is simple,   
+A tesseract script reads all the files (tess.py) in the data dir to create a jsonl file 'output.jsonl'.  
+Then, this file is accessed by a script running Adaptive-RAG on Gemini 1.5 Pro and Embedder is text-embedder-004 (app.py)  
+Use of Pathway library is extensive and most of the functions used are inbuilt functions of pathway library  
+You may visit them by https://github.com/pathwaycom/pathway  
+
