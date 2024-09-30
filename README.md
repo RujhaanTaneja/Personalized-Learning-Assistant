@@ -11,7 +11,7 @@ Just one step away from an assistant to answer what you forgot 🏃‍➡️🏃
 git clone https://github.com/RujhaanTaneja/Personalized-Learning-Assistant
 ```
 ### Files
-Place all your course content in the Data folder in the cloned Repository on your system.  
+Place all the semester's course content in the Data folder in the cloned Repository on your system.  
 We recommend use of Pdf files, but it is compatible for all image-based files, PPTs, Word Documents, etc
 ### Go to this repo
 ``` linux/wsl
@@ -34,4 +34,11 @@ Now, you can enjoy the capabilities of this Assistant on your fingertips...
 Just enter a Question and It will produce an Answer almost immediately  
 After answering, It will again prompt for a question...  
 You may ask another question or close the tab
-# 
+# Inference 
+Now, If you are willing to access the assistant again  
+Just:
+``` linux/WSL
+docker start -i personal-pla
+```
+##Voila! Enjoy the way of new, efficient Learning
+#Good Luck for Your exams
