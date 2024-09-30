@@ -1,0 +1,9 @@
+pathway[all]>=0.11.0
+python-dotenv==1.0.1
+mpmath==1.3.0
+pdf2image==1.16.3
+python-pptx==0.6.21
+litellm>=1.35
+Google-generativeai
+nano
+llama-index-retrievers-pathway
