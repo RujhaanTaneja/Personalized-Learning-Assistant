@@ -41,4 +41,6 @@ Just:
 docker start -i personal-pla
 ```
 ## Voila! Enjoy the way of new, efficient Learning
+![image](https://github.com/user-attachments/assets/0d7fdb0d-48b7-4d49-89e1-24d7bdcacbb7)
+
 # Good Luck for Your exams
