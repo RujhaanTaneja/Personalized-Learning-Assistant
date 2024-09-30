@@ -13,6 +13,9 @@ git clone https://github.com/RujhaanTaneja/Personalized-Learning-Assistant
 ### Files
 Place all the semester's course content in the Data folder in the cloned Repository on your system.  
 We recommend use of Pdf files, but it is compatible for all image-based files, PPTs, Word Documents, etc
+### Env setup
+Open the .env file using notepad/vim/nano and paste your Gemini_API_KEY there.
+You may get your Gemini_API_Key from https://ai.google.dev/gemini-api/docs/api-key
 ### Go to this repo
 ``` linux/wsl
 cd Personalized-Learning-Assistant
