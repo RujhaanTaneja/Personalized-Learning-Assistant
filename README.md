@@ -28,7 +28,7 @@ docker build -t pla .
 ```
 ### Create a container
 ``` linux/wsl
-docker run -it --name presonal-pla pla
+docker run -it --name personal-pla pla
 ```
 # Ask Questions?  
 Now, It will start to process the files you provided it, and soon it will prompt 'Enter a Question:'
