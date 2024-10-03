@@ -2,6 +2,9 @@
 An Adaptive-RAG + Gemini 1.5Pro based learning Assistant developed while keeping in mind the engineering students who study one night before exam 😉  
 Keep forgetting things? Not anymore...  
 Just one step away from an assistant to answer what you forgot 🏃‍➡️🏃‍➡️🏃‍➡️  
+# Demo
+I have created a Demo video going through all the topics mentioned below and have shown how to setup the Personalized-Learning-Assistant
+[Here is the Link to the video](https://go.screenpal.com/watch/cZ6ercVWeQP)
 # Prerequisites
 1. Linux based Operating System (WSL would also work)
 2. Docker
